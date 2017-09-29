@@ -2,7 +2,8 @@ package lab3scm;
 
 public class Lab3SCM {
     public static void featureA(){
-        System.out.println("Feature A added!"); //Bug: add another print statement
+        System.out.println("Feature A added!"); 
+        System.out.println("Added by Member_A");
     }
     public static void featureB(){
         System.out.println("Feature B added!");
